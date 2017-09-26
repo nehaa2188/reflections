@@ -1,4 +1,5 @@
-test abc v
+test abc v What happens when you initialize a repository? Why do you need to do it?
+
 k 
 What happens when you initialize a repository? Why do you need to do it?
 
